@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--migration--adobeyuta.aem.page/us/en
+- Live: https://main--migration--adobeyuta.aem.live/us/en
 
 ## Documentation
 
