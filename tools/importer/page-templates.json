@@ -1,0 +1,37 @@
+{
+  "templates": [
+    {
+      "name": "wknd-landing-page",
+      "urls": [
+        "https://wknd.site/us/en.html"
+      ],
+      "description": "WKND homepage landing page with hero carousel, featured article, recent articles grid, adventure teaser, and adventures list",
+      "blocks": [
+        {
+          "name": "carousel-hero",
+          "instances": [
+            ".carousel.cmp-carousel--hero"
+          ]
+        },
+        {
+          "name": "columns-featured",
+          "instances": [
+            ".teaser.cmp-teaser--featured"
+          ]
+        },
+        {
+          "name": "cards-article",
+          "instances": [
+            ".image-list.list"
+          ]
+        },
+        {
+          "name": "hero-adventure",
+          "instances": [
+            ".teaser.cmp-teaser--hero.cmp-teaser--imagebottom"
+          ]
+        }
+      ]
+    }
+  ]
+}
